@@ -20,7 +20,7 @@ function addItems(e) {
             <li>
                 <h4>${value}</h4>
                 <div class="btn-container">
-                    <button id ="del"><img src="trash-alt-solid.svg"></button>
+                    <button id ="del"class="trash"></button>
                 </div>
             </li>
         `;
