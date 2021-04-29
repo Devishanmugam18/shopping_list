@@ -25,7 +25,7 @@ function addItems(e) {
             </li>
         `;
         // display the customised alert
-        displayAlert('item succesfully added', 'green');
+        displayAlert('succesfully added', 'green');
         setDefaults();
     }
     else if (value.length > 13) {
